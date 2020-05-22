@@ -1,7 +1,8 @@
 body{
-    background:#191d24;
+   
     color: white;
 }
+background-image: linear-gradient(to right top, #2b3333, #003947, #003c66, #003781, #3b2289);
 
 .last{
     text-align:centre;
