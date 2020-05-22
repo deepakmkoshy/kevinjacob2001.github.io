@@ -39,16 +39,19 @@ body {
   .fa-linkedin {
     background: #3B5998;
     color: white;
+      margin:1rem;
   }
   
   /* Twitter */
   .fa-instagram {
     background: rgb(24, 53, 78);
     color: white;
+       margin:1rem;
   }
   .fa-github {
     background: rgb(70, 34, 104);
     color: white;
+       margin:1rem;
   }
 
 
