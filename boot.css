@@ -3,6 +3,11 @@ body{
     color: white;
 }
 
+.last{
+    text-align:centre;
+}
+
+
 .kj{
     margin-left: 50%;
  padding-top: 1rem;
